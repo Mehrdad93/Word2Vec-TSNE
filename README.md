@@ -1,1 +1,1 @@
-# Word2Vec-TSNE
+# Word2Vec-tSNE
